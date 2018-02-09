@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2015.3 (64-bit)
+# SW Build 1368829 on Mon Sep 28 20:06:43 MDT 2015
+# IP Build 1367837 on Mon Sep 28 08:56:14 MDT 2015
+# Start of session at: Fri May 05 16:45:20 2017
+# Process ID: 4828
+# Current directory: C:/Users/kbm5393/Downloads/project_1-1/project_1111/project_1111.runs/impl_1
+# Command line: vivado.exe -log cpu.vdi -applog -messageDb vivado.pb -mode batch -source cpu.tcl -notrace
+# Log file: C:/Users/kbm5393/Downloads/project_1-1/project_1111/project_1111.runs/impl_1/cpu.vdi
+# Journal file: C:/Users/kbm5393/Downloads/project_1-1/project_1111/project_1111.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source cpu.tcl -notrace

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+<!--The data in this file is primarily intended for consumption by Xilinx tools.
+The structure and the elements are likely to change over the next few releases.
+This means code written to parse this file will need to be revisited each subsequent release.-->
+<application name="pa" timeStamp="Sun May 07 23:23:36 2017">
+<section name="Project Information" visible="false">
+<property name="ProjectID" value="4290e721905a4aa88789fb8e926686a0" type="ProjectID"/>
+<property name="ProjectIteration" value="13" type="ProjectIteration"/>
+</section>
+<section name="PlanAhead Usage" visible="true">
+<item name="Project Data">
+<property name="SrcSetCount" value="1" type="SrcSetCount"/>
+<property name="ConstraintSetCount" value="1" type="ConstraintSetCount"/>
+<property name="DesignMode" value="RTL" type="DesignMode"/>
+<property name="SynthesisStrategy" value="Vivado Synthesis Defaults" type="SynthesisStrategy"/>
+<property name="ImplStrategy" value="Vivado Implementation Defaults" type="ImplStrategy"/>
+</item>
+<item name="Java Command Handlers">
+<property name="AddSources" value="14" type="JavaHandler"/>
+<property name="CloseProject" value="1" type="JavaHandler"/>
+<property name="EditPaste" value="2" type="JavaHandler"/>
+<property name="EditUndo" value="8" type="JavaHandler"/>
+<property name="NewFile" value="1" type="JavaHandler"/>
+<property name="NewProject" value="2" type="JavaHandler"/>
+<property name="OpenFile" value="18" type="JavaHandler"/>
+<property name="OpenProject" value="7" type="JavaHandler"/>
+<property name="ProjectSettingsCmdHandler" value="1" type="JavaHandler"/>
+<property name="ReportIPStatus" value="1" type="JavaHandler"/>
+<property name="RunImplementation" value="1" type="JavaHandler"/>
+<property name="RunSchematic" value="5" type="JavaHandler"/>
+<property name="RunSynthesis" value="3" type="JavaHandler"/>
+<property name="ShowView" value="4" type="JavaHandler"/>
+<property name="SimulationRestart" value="23" type="JavaHandler"/>
+<property name="SimulationRun" value="21" type="JavaHandler"/>
+<property name="SimulationRunAll" value="15" type="JavaHandler"/>
+<property name="SimulationRunForTime" value="10" type="JavaHandler"/>
+<property name="UpdateSourceFiles" value="2" type="JavaHandler"/>
+<property name="ViewLayoutCmd" value="27" type="JavaHandler"/>
+<property name="ViewTaskRTLAnalysis" value="5" type="JavaHandler"/>
+<property name="ZoomFit" value="2" type="JavaHandler"/>
+<property name="ZoomIn" value="5" type="JavaHandler"/>
+<property name="ZoomOut" value="4" type="JavaHandler"/>
+</item>
+<item name="Gui Resources Info">
+<property name="BaseDialog_OK" value="1" type="GuiResourceData"/>
+<property name="CmdMsgDialog_OK" value="1" type="GuiResourceData"/>
+<property name="FileSetPanel_FILE_SET_PANEL_TREE" value="45" type="GuiResourceData"/>
+<property name="FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE" value="3" type="GuiResourceData"/>
+<property name="GraphicalView_ZOOM_FIT" value="11" type="GuiResourceData"/>
+<property name="MainMenuMgr_WINDOW" value="2" type="GuiResourceData"/>
+<property name="MainWinMenuMgr_LAYOUT" value="2" type="GuiResourceData"/>
+<property name="OpenFileAction_OK" value="1" type="GuiResourceData"/>
+<property name="PACommandNames_SIMULATION_LIVE_RESTART" value="8" type="GuiResourceData"/>
+<property name="PACommandNames_SIMULATION_LIVE_RUN" value="2" type="GuiResourceData"/>
+<property name="PACommandNames_SIMULATION_LIVE_RUN_ALL" value="6" type="GuiResourceData"/>
+<property name="PACommandNames_SIMULATION_OBJECTS_WINDOW" value="1" type="GuiResourceData"/>
+<property name="PACommandNames_SIMULATION_RUN_BEHAVIORAL" value="3" type="GuiResourceData"/>
+<property name="PACommandNames_SRC_REPLACE_FILE" value="2" type="GuiResourceData"/>
+<property name="PAViews_CODE" value="4" type="GuiResourceData"/>
+<property name="ProgressDialog_CANCEL" value="1" type="GuiResourceData"/>
+<property name="RDICommands_SAVE_FILE" value="4" type="GuiResourceData"/>
+<property name="RDIViews_WAVEFORM_VIEWER" value="3" type="GuiResourceData"/>
+<property name="ReportIPStatusInfoDialog_REPORT_IP_STATUS" value="1" type="GuiResourceData"/>
+<property name="SimulationLiveRunForComp_SPECIFY_TIME_AND_UNITS" value="1" type="GuiResourceData"/>
+<property name="SimulationObjectsPanel_SIMULATION_OBJECTS_TREE_TABLE" value="36" type="GuiResourceData"/>
+<property name="SimulationScopesPanel_SIMULATION_SCOPES_TREE_TABLE" value="15" type="GuiResourceData"/>
+<property name="TclConsoleView_TCL_CONSOLE_CODE_EDITOR" value="1" type="GuiResourceData"/>
+<property name="WaveformNameTree_WAVEFORM_NAME_TREE" value="1" type="GuiResourceData"/>
+</item>
+<item name="Other">
+<property name="GuiMode" value="14" type="GuiMode"/>
+<property name="BatchMode" value="0" type="BatchMode"/>
+<property name="TclMode" value="11" type="TclMode"/>
+</item>
+</section>
+</application>
+</document>

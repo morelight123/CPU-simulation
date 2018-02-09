@@ -1,0 +1,33 @@
+#-----------------------------------------------------------
+# Vivado v2015.3 (64-bit)
+# SW Build 1368829 on Mon Sep 28 20:06:43 MDT 2015
+# IP Build 1367837 on Mon Sep 28 08:56:14 MDT 2015
+# Start of session at: Fri May 05 16:49:26 2017
+# Process ID: 5824
+# Current directory: C:/Users/kbm5393/Downloads/project_1-1/project_1111/project_1111.runs/impl_1
+# Command line: vivado.exe -log cpu.vdi -applog -messageDb vivado.pb -mode batch -source cpu.tcl -notrace
+# Log file: C:/Users/kbm5393/Downloads/project_1-1/project_1111/project_1111.runs/impl_1/cpu.vdi
+# Journal file: C:/Users/kbm5393/Downloads/project_1-1/project_1111/project_1111.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source cpu.tcl -notrace
+WARNING: [Board 49-26] cannot add Board Part digilentinc.com:genesys2:part0:1.1 available at C:/Xilinx/Vivado/2015.3/data/boards/board_files/genesys2/H/board.xml as part xc7k325tffg900-2 specified in board_part file is either invalid or not available
+Design is defaulting to srcset: sources_1
+Design is defaulting to constrset: constrs_1
+INFO: [Project 1-479] Netlist was created with Vivado 2015.3
+INFO: [Device 21-403] Loading part xc7z010clg400-1
+INFO: [Project 1-570] Preparing netlist for logic optimization
+Parsing XDC File [C:/Users/kbm5393/Downloads/VivadoDemo/VivadoDemo/ZYBO_MASTER.xdc]
+WARNING: [Vivado 12-584] No ports matched 'sw[0]'. [C:/Users/kbm5393/Downloads/VivadoDemo/VivadoDemo/ZYBO_MASTER.xdc:13]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [C:/Users/kbm5393/Downloads/VivadoDemo/VivadoDemo/ZYBO_MASTER.xdc:13]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'led[0]'. [C:/Users/kbm5393/Downloads/VivadoDemo/VivadoDemo/ZYBO_MASTER.xdc:27]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [C:/Users/kbm5393/Downloads/VivadoDemo/VivadoDemo/ZYBO_MASTER.xdc:27]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+Finished Parsing XDC File [C:/Users/kbm5393/Downloads/VivadoDemo/VivadoDemo/ZYBO_MASTER.xdc]
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+link_design: Time (s): cpu = 00:00:03 ; elapsed = 00:00:08 . Memory (MB): peak = 439.961 ; gain = 242.109
+Command: opt_design
+Attempting to get a license for feature 'Implementation' and/or device 'xc7z010'

@@ -1,0 +1,43 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Sun May 07 22:31:26 2017
+# Process ID: 1900
+# Current directory: C:/Users/paulm/Desktop/FinalProject
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14824 C:\Users\paulm\Desktop\FinalProject\FinalProject.xpr
+# Log file: C:/Users/paulm/Desktop/FinalProject/vivado.log
+# Journal file: C:/Users/paulm/Desktop/FinalProject\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/paulm/Desktop/FinalProject/FinalProject.xpr
+report_ip_status -name ip_status 
+update_files -from_files C:/Users/paulm/Desktop/VivadoDemo/ZYBO_MASTER.xdc -to_files C:/Users/paulm/Downloads/VivadoDemo/VivadoDemo/ZYBO_MASTER.xdc -filesets [get_filesets *]
+update_files -from_files C:/Users/paulm/Desktop/FinalProject/ZYBO_MASTER.xdc -to_files C:/Users/paulm/Desktop/VivadoDemo/ZYBO_MASTER.xdc -filesets [get_filesets *]
+launch_simulation
+source testBench.tcl
+close_sim
+launch_simulation
+source testBench.tcl
+restart
+run all
+restart
+run all
+restart
+run all
+run 83 ns
+run all
+restart
+restart
+run 83 ns
+close_sim
+launch_simulation
+source testBench.tcl
+restart
+run all
+restart
+run all
+save_wave_config {C:/Users/paulm/Desktop/FinalProject/testBench_behav.wcfg}
+add_files -fileset sim_1 -norecurse C:/Users/paulm/Desktop/FinalProject/testBench_behav.wcfg
+set_property xsim.view {C:/Users/paulm/Downloads/project_1-1/testBench_behav.wcfg C:/Users/paulm/Downloads/project_1-1/project_1/testBench_behav.wcfg C:/Users/paulm/Downloads/project_1-1/project_1/testBench_behav1.wcfg C:/Users/paulm/Downloads/project_1-1/project_1/testBench_behav2.wcfg C:/Users/paulm/Desktop/FinalProject/testBench_behav.wcfg} [get_filesets sim_1]
+close_sim
