@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testBench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="testBench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="150000001fs"></ZoomEndTime>
+      <Cursor1Time time="102285000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="87"></NameColumnWidth>
+      <ValueColumnWidth column_width="50"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="18" />
+   <wvobject fp_name="/testBench/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testBench/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testBench/endnote" type="logic">
+      <obj_property name="ElementShortName">endnote</obj_property>
+      <obj_property name="ObjectShortName">endnote</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testBench/a/bb/ccc/Data1" type="array">
+      <obj_property name="ElementShortName">Data1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Data1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testBench/a/bb/ccc/Data2" type="array">
+      <obj_property name="ElementShortName">Data2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Data2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testBench/a/bb/ccc/Read1" type="array">
+      <obj_property name="ElementShortName">Read1[4:0]</obj_property>
+      <obj_property name="ObjectShortName">Read1[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testBench/a/bb/ccc/Read2" type="array">
+      <obj_property name="ElementShortName">Read2[4:0]</obj_property>
+      <obj_property name="ObjectShortName">Read2[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testBench/a/ee/mwreg" type="logic">
+      <obj_property name="ElementShortName">mwreg</obj_property>
+      <obj_property name="ObjectShortName">mwreg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testBench/a/ee/mm2reg" type="logic">
+      <obj_property name="ElementShortName">mm2reg</obj_property>
+      <obj_property name="ObjectShortName">mm2reg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testBench/a/ee/rd_in" type="array">
+      <obj_property name="ElementShortName">rd_in[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rd_in[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testBench/a/ee/alu_in" type="array">
+      <obj_property name="ElementShortName">alu_in[31:0]</obj_property>
+      <obj_property name="ObjectShortName">alu_in[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testBench/a/ee/memdata_in" type="array">
+      <obj_property name="ElementShortName">memdata_in[31:0]</obj_property>
+      <obj_property name="ObjectShortName">memdata_in[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testBench/a/ee/endsignal" type="logic">
+      <obj_property name="ElementShortName">endsignal</obj_property>
+      <obj_property name="ObjectShortName">endsignal</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testBench/a/ee/wwreg" type="logic">
+      <obj_property name="ElementShortName">wwreg</obj_property>
+      <obj_property name="ObjectShortName">wwreg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testBench/a/ee/wm2reg" type="logic">
+      <obj_property name="ElementShortName">wm2reg</obj_property>
+      <obj_property name="ObjectShortName">wm2reg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testBench/a/ee/rd_out" type="array">
+      <obj_property name="ElementShortName">rd_out[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rd_out[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testBench/a/ee/alu_out" type="array">
+      <obj_property name="ElementShortName">alu_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">alu_out[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testBench/a/ee/memdata_out" type="array">
+      <obj_property name="ElementShortName">memdata_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">memdata_out[31:0]</obj_property>
+   </wvobject>
+</wave_config>

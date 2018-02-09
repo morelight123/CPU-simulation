@@ -1,0 +1,19 @@
+0.6
+2016.4
+Jan 23 2017
+19:37:30
+C:/Users/paulm/Desktop/FinalProject/FinalProject.sim/sim_1/behav/glbl.v,1485222234,verilog,,,,glbl,,,,,,,,
+C:/Users/paulm/Desktop/FinalProject/FinalProject.srcs/sim_1/new/testBench.v,1494016573,verilog,,,,testBench,,,,,,,,
+C:/Users/paulm/Desktop/FinalProject/FinalProject.srcs/sources_1/new/ALU.v,1494013037,verilog,,,,ALU,,,,,,,,
+C:/Users/paulm/Desktop/FinalProject/FinalProject.srcs/sources_1/new/Control_Unit.v,1494013039,verilog,,,,Control_Unit,,,,,,,,
+C:/Users/paulm/Desktop/FinalProject/FinalProject.srcs/sources_1/new/DataMem.v,1494012845,verilog,,,,DataMem,,,,,,,,
+C:/Users/paulm/Desktop/FinalProject/FinalProject.srcs/sources_1/new/EXE.v,1494015490,verilog,,,,EXE,,,,,,,,
+C:/Users/paulm/Desktop/FinalProject/FinalProject.srcs/sources_1/new/ID.v,1494020875,verilog,,,,ID,,,,,,,,
+C:/Users/paulm/Desktop/FinalProject/FinalProject.srcs/sources_1/new/IF.v,1494014871,verilog,,,,IF,,,,,,,,
+C:/Users/paulm/Desktop/FinalProject/FinalProject.srcs/sources_1/new/MEM.v,1494015490,verilog,,,,MEM,,,,,,,,
+C:/Users/paulm/Desktop/FinalProject/FinalProject.srcs/sources_1/new/MUX.v,1494012845,verilog,,,,MUX,,,,,,,,
+C:/Users/paulm/Desktop/FinalProject/FinalProject.srcs/sources_1/new/MUX_32bit.v,1494012845,verilog,,,,MUX_32bit,,,,,,,,
+C:/Users/paulm/Desktop/FinalProject/FinalProject.srcs/sources_1/new/WB.v,1494015346,verilog,,,,WB,,,,,,,,
+C:/Users/paulm/Desktop/FinalProject/FinalProject.srcs/sources_1/new/cpu.v,1494020863,verilog,,,,cpu,,,,,,,,
+C:/Users/paulm/Desktop/FinalProject/FinalProject.srcs/sources_1/new/registerfile.v,1494212013,verilog,,,,registerfile,,,,,,,,
+C:/Users/paulm/Desktop/FinalProject/FinalProject.srcs/sources_1/new/sign_extension.v,1494012845,verilog,,,,sign_extension,,,,,,,,
